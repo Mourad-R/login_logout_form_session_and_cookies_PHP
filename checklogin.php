@@ -42,11 +42,3 @@ echo "Wrong Username or Password";
 }
 ob_end_flush();
 ?>
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Logout</title>
-</head>
-<body>
-</body>
-</html>
